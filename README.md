@@ -7,4 +7,4 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <img src="https://github.com/SamuelDias91/Wide-Coverage-Location/blob/master/image/wide-coverage-desktop.png?raw=true"/>
-<img src="https://github.com/SamuelDias91/Wide-Coverage-Location/blob/master/image/wide-coverage-mobile.png?raw=true"/>
+<img src="https://github.com/SamuelDias91/Wide-Coverage-Location/blob/master/image/wide-coverage-mobile.png?raw=true" width=750px />
