@@ -102,24 +102,21 @@ p {
 
 @media screen and (max-width:1000px) {
 
-    body{
-        background: none;
+    section {
+        position: relative;
+        height: 84vh;
+        right: 25px;
     }
 
-    main{
-        display: block;
-        justify-content: center;
-        align-items: center;
+    header{
+        line-height: 35px;
     }
 
-    section{
-        display: block;
-    }
-
-    .logo-image{
+    .logo-image {
         position: absolute;
-        margin-top: 350px;
-        width: 60%;
+        right: 20px;
+        top: 370px;
+        width: 85%;
     }
 
     h1 {
@@ -127,19 +124,18 @@ p {
         line-height: 48px;
         text-align: center;
     }
-    
-    p{
-        line-height: 30px;
-        text-align: center;
-        color: black;
-        margin: 50px 0;
+
+    p {
+        display: none;
     }
 
     .link-section {
-        margin-left: 180px;
+        display: flex;
+        margin-top: 20px;
+        justify-content: center;
     }
 
-    .button-header{
-        margin-left: 400px;
+    .button-header {
+        height: 50%;
     }
 }
